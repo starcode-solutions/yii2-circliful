@@ -1,0 +1,27 @@
+{
+  "name": "starcode/yii2-circliful",
+  "type": "yii2-extension",
+  "description": "Circliful jquery-plugin integration",
+  "keywords": ["yii2", "circliful", "circular stat", "js"],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/starcode-krasnodar/yii2-circliful/issues",
+    "wiki": "https://github.com/starcode-krasnodar/yii2-circliful/wiki",
+    "source": "https://github.com/starcode-krasnodar/yii2-circliful/wiki"
+  },
+  "authors": [
+    {
+      "name": "Memory Clutter",
+      "email": "memclutter@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "bower-asset/circliful": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "starcode\\yii\\circliful": "src/"
+    }
+  }
+}
