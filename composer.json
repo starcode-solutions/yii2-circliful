@@ -17,7 +17,7 @@
   ],
   "require": {
     "yiisoft/yii2": "*",
-    "bower-asset/circliful": "*"
+    "bower-asset/circliful": "0.1.5"
   },
   "autoload": {
     "psr-4": {
