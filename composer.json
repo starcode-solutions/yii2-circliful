@@ -17,7 +17,7 @@
   ],
   "require": {
     "yiisoft/yii2": "*",
-    "bower-asset/circliful": "0.1.5"
+    "pguso/jquery-plugin-circliful": "*"
   },
   "autoload": {
     "psr-4": {
